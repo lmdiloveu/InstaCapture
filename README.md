@@ -1,3 +1,4 @@
+别人写的一个module，屏幕截屏
 # InstaCapture v0.3
 Android library to capture screenshot from your app
 
